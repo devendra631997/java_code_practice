@@ -15,7 +15,7 @@ public class class1 {
         obj.x = 8;
         System.out.println(obj.x);
         System.out.println(obj.y);
-        obj.method();
+        class1.method();
         method();
         System.out.println(obj.z);
     }
